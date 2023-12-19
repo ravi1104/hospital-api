@@ -61,7 +61,7 @@ hospital-api/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/hospital-api.git
+   git clone https://github.com/ravi1104/hospital-api.git
 Access the API at http://localhost:4000.
 
 API Endpoints  
