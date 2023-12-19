@@ -74,3 +74,5 @@ API Endpoints
   
 Authentication  
 Doctor routes (/doctors/*) are protected by JWT authentication.  
+
+[Youtube Video Link](https://www.youtube.com/watch?v=tPXPJznhD-4)
